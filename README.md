@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Odoo**
 
-- 🌱 I’m currently learning **Golang** and **NextJs**
+- 🌱 I’m currently learning **Golang** and **React**
 
 - 📫 How to reach me **lethanhtrung7412@gmail.com**
 
